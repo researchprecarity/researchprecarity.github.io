@@ -50,7 +50,12 @@ As a member of the Working Group, you will be invited to bi-monthly meetings, ca
   <li><strong>Workstream 2: Organising & Outreach</strong> – Building networks, promoting discussion, and engaging stakeholders.</li>
   <li><strong>Workstream 3: Making the Ask</strong> – Coordinating calls to action with funders, institutions, and sector bodies.</li>
 </ul>
-
+<p style="text-align:center; margin:1.5em 0;">
+  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=7qe9Z4D970GskTWEGCkKHklQeudWQ3VDhXBF5cHv0J1UMTZXTkVXMVg3SVpTNjNHMDRHS0JBRkhOMS4u" target="_blank" rel="noopener" 
+     style="display:inline-block; padding:12px 24px; background-color:#4db6ac; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold; transition: background-color 0.3s ease;">
+    Sign up to join the Research Precarity Working Group
+  </a>
+</p>
 <hr style="border:1px solid #4db6ac; margin:2em 0;">
 
 <h3 style="color:#00695c;">What We Mean by Precarity</h3>
