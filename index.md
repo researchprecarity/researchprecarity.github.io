@@ -122,3 +122,77 @@ We need a coordinated national effort to tackle research precarity. By sharing y
     Sign up to join the Research Precarity Working Group
   </a>
 </p>
+## Latest news
+
+<style>
+.news-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+  margin-top: 10px;
+}
+
+.news-card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 16px;
+  background: #fff;
+}
+
+.news-card h3 {
+  margin-top: 0;
+  font-size: 1.1em;
+}
+
+.news-card p {
+  font-size: 0.95em;
+  line-height: 1.4;
+}
+
+.news-card a {
+  display: inline-block;
+  margin-top: 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.news-card a:hover {
+  text-decoration: underline;
+}
+
+/* Tablet */
+@media (min-width: 600px) {
+  .news-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* Desktop */
+@media (min-width: 900px) {
+  .news-grid {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+</style>
+
+<div class="news-grid">
+
+  <div class="news-card">
+    <h3>Precarity is undermining research culture</h3>
+    <p>Heavy reliance on fixed-term contracts is weakening collaboration, increasing stress, and making it harder to build sustainable research environments.</p>
+    <a href="https://wonkhe.com/blogs/academic-precarity-negatively-impacts-research-culture/" target="_blank">Read more</a>
+  </div>
+
+  <div class="news-card">
+    <h3>Research careers built on fixed-term contracts</h3>
+    <p>Nearly two-thirds of research-only staff remain on fixed-term contracts, reinforcing a two-tier academic workforce.</p>
+    <a href="https://www.timeshighereducation.com/depth/uk-academia-risks-becoming-two-tier-workforce" target="_blank">Read more</a>
+  </div>
+
+  <div class="news-card">
+    <h3>Flexibility shouldn’t mean insecurity</h3>
+    <p>Project-based research funding drives short-term contracts, but systems could be redesigned to support both flexibility and stability.</p>
+    <a href="https://wonkhe.com/blogs/research-flexibility-doesnt-have-to-mean-researcher-precarity/" target="_blank">Read more</a>
+  </div>
+
+</div>
