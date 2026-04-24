@@ -65,7 +65,7 @@ Precarity in research is widespread, driven by reliance on fixed-term contracts,
 </p>
 
 <p>
-Surveys and discussions with researchers consistently show that these conditions create high levels of stress and uncertainty. Early career researchers often work on contracts that provide limited job security, with <strong>over 70% of postdoctoral researchers employed on fixed-term contracts</strong> in the UK (<a href="https://www.gov.uk/government/speeches/reaching-24-securing-the-research-talent-of-tomorrow" target="_blank" rel="noopener">UK government analysis</a>). Technicians and research professionals may also experience structural uncertainty through project-based funding, organisational restructuring, and limited career pathways, despite their central role in enabling research.
+Surveys and discussions with researchers consistently show that these conditions create high levels of stress and uncertainty. Early career researchers often work on contracts that provide limited job security, with <strong>over 70% of postdoctoral researchers employed on fixed-term contracts</strong> in the UK (<a href="https://www.gov.uk/government/speeches/reaching-24-securing-the-research-talent-of-tomorrow" target="_blank" rel="noopener">UK government analysis</a>). Technicians and research professionals may also experience structural uncertainty through project-based funding, organisational restructuring, and limited career pathways, despite their central role in research.
 </p>
 
 <p>
