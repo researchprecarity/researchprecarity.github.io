@@ -1,5 +1,5 @@
 ---
-title: ""
+title: Research Precarity Working Group
 ---
 
 <div style="text-align: center; margin: 1.5em 0;">
