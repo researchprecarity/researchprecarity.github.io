@@ -40,22 +40,68 @@ To take collective action to reduce the level and impact of employment precarity
 
 <hr style="border:1px solid #4db6ac; margin:2em 0;">
 
-<h2 style="color:#00695c;">Join the Working Group</h2>
+<style>
+.tabs-box{max-width:980px;margin:2.5rem auto;background:linear-gradient(180deg,#ffffff 0%,#fafafa 100%);border:1px solid #e7e2d8;border-radius:18px;box-shadow:0 18px 40px rgba(0,0,0,.08);overflow:hidden;font-family:Inter,Segoe UI,Arial,sans-serif}
+.tab-buttons{display:flex;flex-wrap:wrap;gap:6px;padding:12px;background:#f6f1e8;border-bottom:1px solid #ece6db}
+.tab-buttons button{flex:1;min-width:160px;padding:12px 14px;border:none;border-radius:10px;background:transparent;cursor:pointer;font-weight:700;font-size:14px;color:#5b5346;transition:.2s}
+.tab-buttons button:hover{background:#fff}
+.tab-buttons button.active{background:#0f766e;color:#fff;box-shadow:0 8px 18px rgba(15,118,110,.22)}
+.tab-content{display:none;padding:34px;line-height:1.7;color:#2c2c2c}
+.tab-content.active{display:block}
+.tab-content h2{margin-top:0;color:#0f766e;font-size:1.8rem}
+.tab-content p{margin:0 0 1rem}
+.tab-content ul{padding-left:1.2rem}
+.tab-content li{margin-bottom:.7rem}
+.cta{display:inline-block;margin-top:18px;padding:13px 20px;background:#0f766e;color:#fff !important;text-decoration:none;border-radius:999px;font-weight:700;transition:.2s}
+.cta:hover{transform:translateY(-1px);box-shadow:0 10px 18px rgba(15,118,110,.22)}
+@media(max-width:700px){.tab-buttons{display:grid;grid-template-columns:1fr 1fr}.tab-buttons button{min-width:auto}.tab-content{padding:22px}}
+</style>
 
-We welcome any contributions you can make, even just signing up to show your support.  
-As a member of the Working Group, you will be invited to bi-monthly meetings, can contribute outside of meetings, and have the option to participate in one or more focused **workstreams**:
+<div class="tabs-box">
+<div class="tab-buttons">
+<button class="tab-link active" onclick="openTab(event,'join')">Join</button>
+<button class="tab-link" onclick="openTab(event,'ws1')">Data & Evidence</button>
+<button class="tab-link" onclick="openTab(event,'ws2')">Organising & Outreach</button>
+<button class="tab-link" onclick="openTab(event,'ws3')">Making the Ask</button>
+</div>
 
+<div id="join" class="tab-content active">
+<h2>Join the Working Group</h2>
+<p>We welcome any contributions you can make, even just signing up to show your support.</p>
+<p>As a member of the Working Group, you will be invited to bi-monthly meetings, can contribute outside of meetings, and have the option to participate in one or more focused workstreams:</p>
 <ul>
-  <li><strong>Workstream 1: Data & Evidence</strong> – Creating an evidence bank, conducting research on precarity, and mapping support.</li>
-  <li><strong>Workstream 2: Organising & Outreach</strong> – Building networks, promoting discussion, and engaging stakeholders.</li>
-  <li><strong>Workstream 3: Making the Ask</strong> – Coordinating calls to action with funders, institutions, and sector bodies.</li>
+<li><strong>Workstream 1: Data & Evidence</strong> – Creating an evidence bank, conducting research on precarity, and mapping support.</li>
+<li><strong>Workstream 2: Organising & Outreach</strong> – Building networks, promoting discussion, and engaging stakeholders.</li>
+<li><strong>Workstream 3: Making the Ask</strong> – Coordinating calls to action with funders, institutions, and sector bodies.</li>
 </ul>
-<p style="text-align:center; margin:1.5em 0;">
-  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=7qe9Z4D970GskTWEGCkKHklQeudWQ3VDhXBF5cHv0J1UMTZXTkVXMVg3SVpTNjNHMDRHS0JBRkhOMS4u" target="_blank" rel="noopener" 
-     style="display:inline-block; padding:12px 24px; background-color:#4db6ac; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold; transition: background-color 0.3s ease;">
-    Sign up to join the Research Precarity Working Group
-  </a>
-</p>
+<a href="#" class="cta">Sign up to join the Research Precarity Working Group</a>
+</div>
+
+<div id="ws1" class="tab-content">
+<h2>Workstream 1: Data & Evidence</h2>
+<p>Creating an evidence bank, conducting research on precarity, and mapping support.</p>
+</div>
+
+<div id="ws2" class="tab-content">
+<h2>Workstream 2: Organising & Outreach</h2>
+<p>Building networks, promoting discussion, and engaging stakeholders.</p>
+</div>
+
+<div id="ws3" class="tab-content">
+<h2>Workstream 3: Making the Ask</h2>
+<p>Coordinating calls to action with funders, institutions, and sector bodies.</p>
+</div>
+</div>
+
+<script>
+function openTab(evt, tabId){
+ document.querySelectorAll('.tab-content').forEach(t=>t.classList.remove('active'));
+ document.querySelectorAll('.tab-link').forEach(b=>b.classList.remove('active'));
+ document.getElementById(tabId).classList.add('active');
+ evt.currentTarget.classList.add('active');
+}
+</script>
+
 <hr style="border:1px solid #4db6ac; margin:2em 0;">
 
 <h3 style="color:#00695c;">What We Mean by Precarity</h3>
