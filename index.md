@@ -115,17 +115,7 @@ We need a coordinated national effort to tackle research precarity. By sharing y
   </div>
 </div>
 
-<hr style="border:1px solid #4db6ac; margin:2em 0;">
 
-<h3 style="color:#00695c;">Get Involved</h3>
-
-<p>We welcome your voice, expertise, and experiences.</p>
-<p style="text-align:center; margin:1.5em 0;">
-  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=7qe9Z4D970GskTWEGCkKHklQeudWQ3VDhXBF5cHv0J1UMTZXTkVXMVg3SVpTNjNHMDRHS0JBRkhOMS4u" target="_blank" rel="noopener" 
-     style="display:inline-block; padding:12px 24px; background-color:#4db6ac; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold; transition: background-color 0.3s ease;">
-    Sign up to join the Research Precarity Working Group
-  </a>
-</p>
 ## Latest news
 
 <style>
