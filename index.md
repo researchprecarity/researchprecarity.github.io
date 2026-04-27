@@ -74,7 +74,12 @@ To take collective action to reduce the level and impact of employment precarity
 <li><strong>Workstream 2: Organising & Outreach</strong> – Building networks, promoting discussion, and engaging stakeholders.</li>
 <li><strong>Workstream 3: Making the Ask</strong> – Coordinating calls to action with funders, institutions, and sector bodies.</li>
 </ul>
-<a href="#" class="cta">Sign up to join the Research Precarity Working Group</a>
+<p style="text-align:center; margin:1.5em 0;">
+  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=7qe9Z4D970GskTWEGCkKHklQeudWQ3VDhXBF5cHv0J1UMTZXTkVXMVg3SVpTNjNHMDRHS0JBRkhOMS4u" target="_blank" rel="noopener" 
+     style="display:inline-block; padding:12px 24px; background-color:#4db6ac; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold; transition: background-color 0.3s ease;">
+    Sign up to join the Research Precarity Working Group
+  </a>
+</p>
 </div>
 
 <div id="ws1" class="tab-content">
