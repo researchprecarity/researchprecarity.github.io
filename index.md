@@ -16,7 +16,7 @@ display:none !important;
        style="border-radius:8px;">
 </div>
 
-The **Research Precarity Working Group** is a collective initiative taking action to reduce the level and impact of employment precarity across research-related careers in higher education institutions.
+The **Research Precarity Working Group** is a collective grassroots initiative taking action to reduce the level and impact of employment precarity across research-related careers in higher education institutions.
 
 <p style="text-align:center; margin:1.5em 0;">
   <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=7qe9Z4D970GskTWEGCkKHklQeudWQ3VDhXBF5cHv0J1UMTZXTkVXMVg3SVpTNjNHMDRHS0JBRkhOMS4u" target="_blank" rel="noopener" 
