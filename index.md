@@ -20,12 +20,59 @@ The **Research Precarity Working Group** is a collective initiative taking actio
 
 <hr style="border:1px solid #4db6ac; margin:2em 0;">
 
+<style>
+.vm-section{
+  display:flex;
+  align-items:center;
+  gap:2rem;
+  margin:2rem 0;
+  flex-wrap:wrap;
+}
+
+.vm-text{
+  flex:1 1 420px;
+}
+
+.vm-image{
+  flex:0 1 320px;
+  text-align:center;
+}
+
+.vm-image img{
+  width:100%;
+  max-width:320px;
+  height:auto;
+  border-radius:12px;
+  box-shadow:0 8px 22px rgba(0,0,0,0.08);
+}
+
+@media (max-width:768px){
+  .vm-section{
+    flex-direction:column;
+  }
+
+  .vm-image{
+    order:-1;
+  }
+
+  .vm-image img{
+    max-width:250px;
+  }
+}
+</style>
+
+<div class="vm-section">
+
+<div class="vm-text">
+
 <h3 style="color:#00695c;">Vision</h3>
 
+<p>
 To take collective action to reduce the level and impact of employment precarity in research, research professional, and technical roles.
+</p>
 
 <div style="font-style:italic; color:#00695c; border-left:4px solid #4db6ac; padding-left:1em; margin:1em 0;">
-  "We need to ensure that everyone who is part of, or could be part of, the research community - across all roles and career stages, and including those held back by exclusion - has security, recognition, and a voice in shaping the culture of their workplace."
+"We need to ensure that everyone who is part of, or could be part of, the research community - across all roles and career stages, and including those held back by exclusion - has security, recognition, and a voice in shaping the culture of their workplace."
 </div>
 
 <hr style="border:1px solid #4db6ac; margin:2em 0;">
@@ -33,23 +80,20 @@ To take collective action to reduce the level and impact of employment precarity
 <h3 style="color:#00695c;">Mission</h3>
 
 <ul>
-  <li><strong>Build a strong national case for change</strong> to current employment practices.</li>
-  <li><strong>Advocate for improved support</strong> for colleagues facing precarity.</li>
-  <li><strong>Engage funders, HEIs and national bodies</strong> in sector-wide conversations and calls for action.</li>
+<li><strong>Build a strong national case for change</strong> to current employment practices.</li>
+<li><strong>Advocate for improved support</strong> for colleagues facing precarity.</li>
+<li><strong>Engage funders, HEIs and national bodies</strong> in sector-wide conversations and calls for action.</li>
 </ul>
 
-<div style="text-align:center; margin:2em 0;">
-  <img src="https://raw.githubusercontent.com/researchprecarity/researchprecarity.github.io/main/precarityimg1.jpg"
-       alt="Research Precarity Working Group"
-       style="
-         width:100%;
-         max-width:650px;
-         height:auto;
-         display:block;
-         margin:0 auto;
-         border-radius:10px;
-       ">
 </div>
+
+<div class="vm-image">
+<img src="https://raw.githubusercontent.com/researchprecarity/researchprecarity.github.io/main/precarityimg1.jpg" alt="Research Precarity Working Group">
+</div>
+
+</div>
+
+<hr style="border:1px solid #4db6ac; margin:2em 0;">
 
 <hr style="border:1px solid #4db6ac; margin:2em 0;">
 
