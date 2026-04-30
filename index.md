@@ -98,7 +98,7 @@ To take collective action to reduce the level and impact of employment precarity
 </div>
 
 <div class="vm-image">
-<img src="https://raw.githubusercontent.com/researchprecarity/researchprecarity.github.io/main/precarityimg1.jpg"
+<img src="/precarityimg.png"
 alt="Research Precarity Working Group">
 </div>
 
