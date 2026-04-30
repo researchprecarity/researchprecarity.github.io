@@ -60,9 +60,9 @@ To take collective action to reduce the level and impact of employment precarity
 <div class="tabs-box">
 <div class="tab-buttons">
 <button class="tab-link active" onclick="openTab(event,'join')">Join</button>
-<button class="tab-link" onclick="openTab(event,'ws1')">Data & Evidence</button>
-<button class="tab-link" onclick="openTab(event,'ws2')">Organising & Outreach</button>
-<button class="tab-link" onclick="openTab(event,'ws3')">Making the Ask</button>
+<button class="tab-link" onclick="openTab(event,'ws1')">WS1: Data & Evidence</button>
+<button class="tab-link" onclick="openTab(event,'ws2')">WS2: Organising & Outreach</button>
+<button class="tab-link" onclick="openTab(event,'ws3')">WS3: Making the Ask</button>
 </div>
 
 <div id="join" class="tab-content active">
@@ -84,17 +84,17 @@ To take collective action to reduce the level and impact of employment precarity
 
 <div id="ws1" class="tab-content">
 <h2>Workstream 1: Data & Evidence</h2>
-<p>Creating an evidence bank, conducting research on precarity, and mapping support.</p>
+<p>Objective: Creating an evidence bank, conducting research on precarity, and mapping support.</p>
 </div>
 
 <div id="ws2" class="tab-content">
 <h2>Workstream 2: Organising & Outreach</h2>
-<p>Building networks, promoting discussion, and engaging stakeholders.</p>
+<p>Objective: Building networks, promoting discussion, and engaging stakeholders.</p>
 </div>
 
 <div id="ws3" class="tab-content">
 <h2>Workstream 3: Making the Ask</h2>
-<p>Coordinating calls to action with funders, institutions, and sector bodies.</p>
+<p>Objective: Coordinating calls to action with funders, institutions, and sector bodies.</p>
 </div>
 </div>
 
