@@ -78,7 +78,7 @@ To take collective action to reduce the level and impact of employment precarity
 "We need to ensure that everyone who is part of, or could be part of, the research community - across all roles and career stages, and including those held back by exclusion - has security, recognition, and a voice in shaping the culture of their workplace."
 </div>
 
-<hr style="border:1px solid #4db6ac; margin:2em 0;">
+
 
 <h3 style="color:#00695c;">Mission</h3>
 
