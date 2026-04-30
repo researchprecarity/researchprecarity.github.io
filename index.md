@@ -38,6 +38,19 @@ To take collective action to reduce the level and impact of employment precarity
   <li><strong>Engage funders, HEIs and national bodies</strong> in sector-wide conversations and calls for action.</li>
 </ul>
 
+<div style="text-align:center; margin:2em 0;">
+  <img src="https://raw.githubusercontent.com/researchprecarity/researchprecarity.github.io/main/precarityimg1.jpg"
+       alt="Research Precarity Working Group"
+       style="
+         width:100%;
+         max-width:650px;
+         height:auto;
+         display:block;
+         margin:0 auto;
+         border-radius:10px;
+       ">
+</div>
+
 <hr style="border:1px solid #4db6ac; margin:2em 0;">
 
 <style>
