@@ -19,7 +19,6 @@ The **Research Precarity Working Group** is a collective initiative taking actio
 </p>
 
 <hr style="border:1px solid #4db6ac; margin:2em 0;">
-
 <style>
 .vm-section{
   display:flex;
@@ -30,22 +29,25 @@ The **Research Precarity Working Group** is a collective initiative taking actio
 }
 
 .vm-text{
-  flex:1 1 420px;
+  flex:3;
+  min-width:320px;
 }
 
 .vm-image{
-  flex:0 1 320px;
+  flex:2;
+  min-width:260px;
   text-align:center;
 }
 
 .vm-image img{
   width:100%;
-  max-width:320px;
+  max-width:100%;
   height:auto;
   border-radius:12px;
   box-shadow:0 8px 22px rgba(0,0,0,0.08);
 }
 
+/* Mobile */
 @media (max-width:768px){
   .vm-section{
     flex-direction:column;
@@ -53,10 +55,11 @@ The **Research Precarity Working Group** is a collective initiative taking actio
 
   .vm-image{
     order:-1;
+    width:100%;
   }
 
   .vm-image img{
-    max-width:250px;
+    max-width:320px;
   }
 }
 </style>
@@ -88,15 +91,13 @@ To take collective action to reduce the level and impact of employment precarity
 </div>
 
 <div class="vm-image">
-<img src="https://raw.githubusercontent.com/researchprecarity/researchprecarity.github.io/main/precarityimg1.jpg" alt="Research Precarity Working Group">
+<img src="https://raw.githubusercontent.com/researchprecarity/researchprecarity.github.io/main/precarityimg1.jpg"
+alt="Research Precarity Working Group">
 </div>
 
 </div>
 
 <hr style="border:1px solid #4db6ac; margin:2em 0;">
-
-<hr style="border:1px solid #4db6ac; margin:2em 0;">
-
 <style>
 .tabs-box{max-width:980px;margin:2.5rem auto;background:linear-gradient(180deg,#ffffff 0%,#fafafa 100%);border:1px solid #e7e2d8;border-radius:18px;box-shadow:0 18px 40px rgba(0,0,0,.08);overflow:hidden;font-family:Inter,Segoe UI,Arial,sans-serif}
 .tab-buttons{display:flex;flex-wrap:wrap;gap:6px;padding:12px;background:#f6f1e8;border-bottom:1px solid #ece6db}
