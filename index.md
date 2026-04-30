@@ -1,7 +1,14 @@
 ---
 title: Research Precarity Working Group
 ---
-
+<style>
+.site-title,
+.site-name,
+header h1,
+header .title {
+display:none !important;
+}
+</style>
 <div style="text-align: center; margin: 1.5em 0;">
   <img src="{{ 'https://raw.githubusercontent.com/rikanair/precarity/main/RPWG.png' | relative_url }}" 
        alt="Research Precarity Working Group Logo" 
